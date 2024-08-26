@@ -1,0 +1,894 @@
+.navbar{
+
+width: 80%!important;
+margin-left: 10%;
+margin-top: 32px;
+
+
+}
+
+
+.navbar-toggler{
+
+color: blue!important;
+
+
+
+}
+
+.navbar-toggler-icon {
+   
+}
+
+.abs{
+
+margin-left: 16%;
+position: absolute;
+
+
+}
+
+.abs6{
+
+margin-left: 81%;
+
+}
+
+.abs7{
+
+margin-left: 12%;
+
+
+}
+
+
+
+
+
+.buttonClass {
+
+    text-decoration: none;
+    font-size: 15px;
+    font-family:Arial;
+    width:140px;
+    height:35px;
+    border-width:1px;
+    color: black;
+    border-color:#ffffff;
+    border-top-left-radius:4px;
+    border-top-right-radius:4px;
+    border-bottom-left-radius:4px;
+    border-bottom-right-radius:4px;
+    box-shadow:inset 0px 39px 0px -24px rgba(255, 255, 255, 1);
+    text-shadow:inset 0px 1px 0px rgba(255, 255, 255, 1);
+    background:rgba(255, 255, 255, 1);
+position: absolute;
+margin-left: 59%;
+padding-top: 7px;
+
+
+
+
+  }
+  
+  .buttonClass:hover {
+    background: rgba(255, 255, 255, 1)
+  }
+
+
+
+  @media (min-width: 0px) and (max-width: 576px) { 
+
+.navbar{
+
+height: 430px;
+background: url(file:///C:/Users/Sudipto/Desktop/Web%20Architect/Project%20Designer/Call%20Off%20Duty/images/1123054%201.png);
+
+
+}
+
+.buttonClass{
+
+margin-left: -2px;
+margin-top: 212px;
+
+}
+.abs{
+
+margin-top: 54px;
+margin-left: -2px;
+
+}
+
+
+
+  }
+
+
+
+
+
+
+  @media (min-width: 986px) and (max-width: 1500px) { 
+
+
+.abs6{
+
+margin-left: 1px;
+
+
+}
+
+.abs{
+
+margin-left: -14px;
+
+
+}
+
+
+.abs7{
+
+margin-left: -12px;
+
+}
+
+.buttonClass{
+
+margin-left: 62%;
+
+
+}
+
+
+
+   }
+
+
+                
+.der1{
+
+
+width: 100%;
+height: 780px;
+margin-top: -85px;
+
+
+}
+
+.der2{
+
+margin-top: -688px;
+
+
+}
+
+.der3{
+
+margin-top: -160px;
+margin-left: 5%;
+color: white;
+
+}
+
+.der4{
+
+height: 40px;
+width: 136px;
+color: black;
+opacity: 17%;
+margin-left: 5%;
+
+
+}
+
+@media (min-width: 0px) and (max-width: 786px) { 
+
+
+.der1{
+
+margin-top: -453px;
+height: 1865px;
+
+
+}
+
+
+
+.der2{
+
+width: 100%;
+margin-top: -1500px;
+
+}
+
+.der3{
+
+margin-top: -600px;
+
+}
+
+
+
+}
+
+
+
+
+
+.ert{
+
+background-color: black;
+height: 789px;
+width: 100%;
+
+
+}
+
+.ert1{
+
+width: 100%;
+
+
+}
+
+
+.ert2{
+
+color: white;
+font-size: 39px;
+font-family: 'Arimo', sans-serif;
+padding-top: 65px;
+text-align: center;
+
+
+
+}
+
+.ert3{
+
+margin-left: 35%;
+
+
+}
+
+
+
+.ert5{
+
+width: 20%;
+height: 350px;
+
+
+}
+
+.ert6{
+
+border-radius: 50px;
+
+
+}
+
+
+.ert7{
+
+margin-top: -152px;
+margin-left: 42px;
+
+}
+
+.ert4{
+
+display: flex;
+flex-direction: row;
+justify-content: space-evenly;
+margin-top: 45px;
+
+
+}
+
+
+
+@media (min-width: 0px) and (max-width: 786px) { 
+
+
+
+    .ert{
+
+        height: 3700px;
+        margin-top: -338px;
+        
+        }
+        
+        
+        
+        .ert1{
+        
+        margin-top: 793px;
+        
+        
+        }
+        
+        .ert3{
+        
+        width: 100%;
+        margin-left: -45px;
+        
+        
+        }
+        
+        
+        
+        
+            .ert4{
+        
+                display: flex;
+                flex-direction: column;
+                justify-content: space-evenly;
+                margin-top: 30px;
+                align-items: center;
+                
+                
+                }
+        
+        
+        .ert5{
+        
+            width: 100%;
+        margin-top: 245px;
+        
+        
+        }
+        
+
+
+
+
+
+}
+
+
+
+
+
+
+
+@media (min-width: 787px) and (max-width: 1400px) { 
+
+
+
+.ert{
+
+height: 3300px;
+margin-top: -338px;
+
+}
+
+
+
+.ert1{
+
+margin-top: 452px;
+
+
+}
+
+.ert3{
+
+width: 100%;
+margin-left: -45px;
+
+
+}
+
+
+
+
+    .ert4{
+
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        margin-top: 30px;
+        align-items: center;
+        
+        
+        }
+
+
+.ert5{
+
+margin-top: 245px;
+
+
+}
+
+
+}
+
+
+
+.act1{
+
+height: 900px;
+width: 100%;
+margin-top: 0px;
+
+
+}
+
+.act2{
+
+color: white;
+font-family: 'Arimo', sans-serif;
+font-size: 22px;
+margin-top: -785px;
+text-align: center;
+
+}
+
+.act3{
+
+margin-top: -145px;
+margin-left: 12%;
+
+
+}
+
+.act4{
+
+margin-top: -32px;
+
+
+
+}
+
+.act5{
+
+height: 400px;
+width: 350px;
+
+
+}
+
+
+.act6{
+
+height: 396px;
+border: 1px solid white;
+margin-top: 45px;
+
+}
+
+.act7{
+
+    position: absolute;
+    margin-top: -164px;
+
+}
+
+
+.act8{
+
+    position: absolute;
+    margin-top: -108px;
+
+}
+
+
+.act9{
+
+    position: absolute;
+    margin-top: -83px;
+    color: white;
+    font-size: 4px;
+
+}
+
+.act10{
+
+height: 40px;
+width: 128px;
+background-color: white;
+opacity: 16%;
+color: red;
+margin-top: -56px;
+position: absolute;
+
+}
+
+
+.rtx{
+
+margin-top: -45px;
+
+
+}
+
+
+.rtx5{
+
+display: flex;
+flex-direction: row;
+
+
+
+}
+
+.rtx3{
+
+margin-left: 62px;
+
+
+}
+
+.rtx4{
+
+    font-family: 'Arimo', sans-serif;
+color: white;
+
+
+}
+
+.rtx5{
+
+margin-top: 43px;
+
+}
+
+
+
+.rtx6{
+
+    font-family: 'Arimo', sans-serif;
+font-size: 10px;
+color: white;
+
+}
+
+.btn23{
+
+height: 45px;
+width: 189px;
+border-color: green ;
+margin-top: 45px;
+opacity: 16%;
+margin-left: 5%
+
+}
+
+.cxt{
+
+display: flex;
+flex-direction: row;
+justify-content: space-evenly;
+
+
+
+}
+
+
+@media (min-width: 0px) and (max-width: 1190px) { 
+
+
+
+    .cxt{
+
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        
+        
+        
+        }
+
+
+        .rtx{
+
+margin-top: 178px;
+
+
+
+        }
+
+        .act1{
+
+height: 1590px;
+margin-top: 0px;
+
+
+        }
+
+        .act2{
+
+margin-top: -1406px;
+
+
+        }
+
+        .act3{
+
+width: 80%;
+
+        }
+
+        
+        .act4{
+
+            width: 80%;
+            
+                    }
+
+
+
+
+}
+
+.tns{
+
+background-color: black;
+height: 370px;
+width: 100%;
+
+
+}
+
+
+
+.tns2{
+
+height: 369px;
+width: 550px;
+padding-top: 12px;
+
+
+}
+
+
+.tns4{
+
+font-size: 32px;
+font-family: 'Arimo', sans-serif;
+padding-top: 85px;
+color: white;
+
+}
+
+
+.tns5{
+
+color: white;
+
+
+}
+
+
+.tns6{
+
+height: 60px;
+width: 360px;
+border-color: green;
+color: red;
+opacity: 16%;
+
+}
+
+.tns{
+
+display: flex;
+flex-direction: row;
+justify-content: space-evenly;
+margin-top: 118px;
+
+
+
+}
+
+
+@media (min-width: 0px) and (max-width: 986px) { 
+
+
+.tns{
+
+margin-top: 58px;
+display: flex;
+flex-direction: column;
+height: 900px;
+
+
+
+}
+
+.tns2{
+
+width: 100%;
+
+}
+
+
+
+
+
+}
+
+
+@media (min-width: 987px) and (max-width: 1200px) { 
+
+
+
+    .tns{
+
+        margin-top: 52px;
+
+    }
+
+
+    .tns2{
+
+padding-top: 51px;
+
+
+    }
+
+
+
+}
+
+@media (min-width: 1200px) and (max-width: 1400px) { 
+
+
+    .tns{
+
+        margin-top: 52px;
+
+    }
+
+
+    .tns2{
+
+padding-top: 54px;
+
+
+    }
+
+}
+
+.dna2{
+
+width: 100%;
+height: 258px;
+
+
+}
+
+.dna3{
+
+display: flex;
+flex-direction: row;
+justify-content: space-evenly;
+margin-top: -159px;
+
+
+
+}
+
+
+@media (min-width: 0px) and (max-width: 1200px) { 
+
+
+
+    .dna3{
+
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        align-items: center;
+        margin-top: -485px;
+        
+        
+        
+        }
+
+        .dna2{
+
+height: 600px;
+
+
+        }
+
+        .dna4{
+
+margin-top: 15px;
+
+
+        }
+
+
+
+}
+
+.raw2{
+
+color: white;
+font-size: 12px;
+margin-left: 5px;
+
+}
+
+.raw2 span{
+    margin: 5px;
+}
+
+.raw{
+
+display: flex;
+flex-direction: row;
+justify-content: space-evenly;
+background-color: black;
+height: 100px;
+width: 100%;
+margin-top: 100px;
+padding-top: 39px;
+
+
+}
+
+.bzd{
+
+display: flex;
+flex-direction: row;
+justify-content: space-evenly;
+background-color: black;
+height: 125px;
+
+
+
+}
+
+.bzd1{
+
+margin-left: -11%;
+position: absolute;
+
+}
+
+.bzd2{
+
+    margin-left: 18%;
+
+
+}
+
+
+@media (min-width: 0px) and (max-width: 987px) { 
+
+
+    .bzd1{
+
+        margin-left: -25%;
+        position: absolute;
+        
+        }
+
+
+
+}
+
+
+
+.cdn1{
+
+text-align: center;
+font-size: 12px;
+color: white;
+
+
+}
+
+.cdn{
+
+background-color: black;
+height: 125px;
+
+}
+
